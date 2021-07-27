@@ -4,9 +4,6 @@ backend:
 
 publish_mode: editorial_workflow
 
-media_folder: "src/media"
-public_folder: "/media"
-
 collections:
   - name: "posts"
     label: "Blog Posts"
@@ -20,3 +17,4 @@ collections:
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime"}
       - {label: "Tags", name: "tags", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
