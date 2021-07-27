@@ -1,0 +1,20 @@
+{
+    "sadie1": {
+        "type": "Still Image",
+        "src": "https://blue-sky-archive.s3.ca-central-1.amazonaws.com/sadie4.webp",
+        "alt": "The face of a spotted cattled dog looks downwards in black and white",
+        "title": "Sadie Look"
+    },
+    "sadie2": [
+        {"type": "Still Image"},
+        {"src": "https://blue-sky-archive.s3.ca-central-1.amazonaws.com/sadie6.webp"},
+        {"alt": "Test test test"},
+        {"title": "Artist Sadie"}
+    ],
+    "post1": {
+        "type": "Still Image",
+        "src": "https://blue-sky-archive.s3.ca-central-1.amazonaws.com/IMG_1075.webp",
+        "alt": "Authors, Kellen and Claire setting up the site",
+        "title": "Claire and Kellen setting things up"
+    }
+}

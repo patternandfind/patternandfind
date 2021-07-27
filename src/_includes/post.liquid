@@ -1,0 +1,14 @@
+---
+layout: default.liquid
+---
+<div class="container lg:max-w-4xl max-w-full mx-auto px-8 prose-lg">
+    <h1 class="lg:text-xl text-xl pt-10">{{ title }}</h1>
+    <p class="lg:text-xl text-m pt-0">
+        <time>{{ date | date: "%d %b %Y" }}</time> 
+        by 
+        <a>{{ author }}</a>
+    </p>
+    <article class="mx-auto mt-10 pb-5">
+        {{ content }}
+    </article>
+</div>

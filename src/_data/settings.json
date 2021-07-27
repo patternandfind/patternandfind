@@ -1,0 +1,9 @@
+{
+  "title": "pattern+find",
+  "description": "Claire and Kellen's explorations in the digital world. With a bit of Sadie.",
+  "navigation": [
+    {"name": "blog", "url": "/blog"},
+    {"name": "archives+collections", "url": "/archives&collections"},
+    {"name": "about", "url": "/about"}
+  ]
+}

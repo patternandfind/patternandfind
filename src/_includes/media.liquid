@@ -1,0 +1,16 @@
+{% assign media = media[id] %}
+<div class="media_container">
+{%- if media.type == "Still Image" -%}
+    <img src="{{ media.src }}" alt="{{ media.alt }}" width="832" loading="lazy">
+{%- elsif media.type == "Sound" -%}
+    <audio controls>
+      <source src="{{ media.src }}" type="audio/mpeg">
+    </audio>
+{%- elsif media.type == "Moving Image" -%}
+    <video controls width="740" height="491">
+      <source src="{{ media.src }}" type="video/mp4">
+    </video>
+{%- else -%}
+    <img src="{{ media.sadie1.src }}" width="832" loading="lazy">
+{%- endif -%}
+</div>
