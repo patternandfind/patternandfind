@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
     {% include head %}
-    <body class="bg-yellow-50 text-gray-600 min-h-screen relative">
+    <body class="bg-yellow-50 text-gray-600 flex flex-col h-screen justify-between">
         {% include header %}
-        <main class="pt-10" aria-label="Content">
+        <main class="lg:my-auto md:pt-14 mb-auto min-h-10" aria-label="Content">
             {{ content }}
         </main>
         {% include footer %}
