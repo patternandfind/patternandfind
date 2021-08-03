@@ -1,7 +1,17 @@
-{% assign media = media[id] %}
 <div class="media_container">
-{%- if media.type == "Still Image" -%}
-    <img src="{{ media.src }}" alt="{{ media.alt }}" width="832" loading="lazy">
+{%- if media[id].type == "Still Image" -%}
+  <picture>
+    {%- if media[id].src.avif -%}
+    <source srcset="{{ media[id].src.avif }}" type="image/avif">
+    {%- endif -%}
+    {%- if media[id].src.webp -%}
+    <source srcset="{{ media[id].src.webp }}" type="image/webp">
+    {%- endif -%}
+    {%- if media[id].src.jpeg -%}
+    <source srcset="{{ media[id].src.jpeg }}" type="image/jpeg">
+    {%- endif -%}
+    <img class="mx-auto mb-2" src="{{ media[id].src.jpeg }}" alt="{{ media[id].alt }}" width="{{ w }}" height="{{ h }}" loading="lazy">
+  </picture>
 {%- elsif media.type == "Sound" -%}
     <audio controls>
       <source src="{{ media.src }}" type="audio/mpeg">

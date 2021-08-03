@@ -1,20 +1,29 @@
 {
-    "sadie1": {
+    "kellenProfile": {
         "type": "Still Image",
-        "src": "https://blue-sky-archive.s3.ca-central-1.amazonaws.com/sadie4.webp",
-        "alt": "The face of a spotted cattled dog looks downwards in black and white",
-        "title": "Sadie Look"
+        "src": {
+            "avif": "/media/kellenProfile.avif",
+            "webp": "/media/kellenProfile.webp",
+            "jpeg": "/media/kellenProfile.jpg"
+        },
+        "alt": "Kellen and Sadie sitting in a mountainous landscape"
     },
-    "sadie2": [
-        {"type": "Still Image"},
-        {"src": "https://blue-sky-archive.s3.ca-central-1.amazonaws.com/sadie6.webp"},
-        {"alt": "Test test test"},
-        {"title": "Artist Sadie"}
-    ],
-    "post1": {
+    "claireProfile": {
         "type": "Still Image",
-        "src": "https://blue-sky-archive.s3.ca-central-1.amazonaws.com/IMG_1075.webp",
-        "alt": "Authors, Kellen and Claire setting up the site",
-        "title": "Claire and Kellen setting things up"
+        "src": {
+            "avif": "/media/claireProfile.avif",
+            "webp": "/media/claireProfile.webp",
+            "jpeg": "/media/claireProfile.jpg"
+        },
+        "alt": "Claire and Sadie smiling in a community garden"
+    },
+    "sadieProfile": {
+        "type": "Still Image",
+        "src": {
+            "avif": "/media/sadieProfile.avif",
+            "webp": "/media/sadieProfile.webp",
+            "jpeg": "/media/sadieProfile.jpg"
+        },
+        "alt": "Sadie, a black and white cattle dog, lies on mossy granite surface"
     }
 }
