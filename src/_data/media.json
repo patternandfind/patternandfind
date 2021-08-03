@@ -25,5 +25,19 @@
             "jpeg": "/media/sadieProfile.jpg"
         },
         "alt": "Sadie, a black and white cattle dog, lies on mossy granite surface"
+    },
+    "sadieB&W1": {
+        "type": "Still Image",
+        "src": {
+            "webp": "https://blue-sky-archive.s3.ca-central-1.amazonaws.com/sadie6.webp"
+        },
+        "alt": "Sadie's face in a distorted black and white photograph"
+    },
+    "post1": {
+        "type": "Still Image",
+        "src": {
+            "webp": "https://blue-sky-archive.s3.ca-central-1.amazonaws.com/IMG_1075.webp"
+        },
+        "alt": "Claire and Kellen sitting at their dining room table"
     }
 }

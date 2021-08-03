@@ -12,15 +12,30 @@
     {%- endif -%}
     <img class="mx-auto mb-2" src="{{ media[id].src.jpeg }}" alt="{{ media[id].alt }}" width="{{ w }}" height="{{ h }}" loading="lazy">
   </picture>
-{%- elsif media.type == "Sound" -%}
+{%- elsif media[id].type == "Sound" -%}
     <audio controls>
-      <source src="{{ media.src }}" type="audio/mpeg">
+      <source src="{{ media[id].src }}" type="audio/mpeg">
     </audio>
-{%- elsif media.type == "Moving Image" -%}
+{%- elsif media[id].type == "Moving Image" -%}
     <video controls width="740" height="491">
-      <source src="{{ media.src }}" type="video/mp4">
+      <source src="{{ media[id].src }}" type="video/mp4">
     </video>
 {%- else -%}
-    <img src="{{ media.sadie1.src }}" width="832" loading="lazy">
+  {% assign item = media['sadieB&W1'] %}
+  <picture>
+    {%- if item.src.avif -%}
+    <source srcset="{{ item.src.avif }}" type="image/avif">
+      {% assign fallback = item.src.avif %}
+    {%- endif -%}
+    {%- if item.src.webp -%}
+    <source srcset="{{ item.src.webp }}" type="image/webp">
+      {% assign fallback = item.src.webp %}
+    {%- endif -%}
+    {%- if item.src.jpeg -%}
+    <source srcset="{{ item.src.jpeg }}" type="image/jpeg">
+      {% assign fallback = item.src.webp %}
+    {%- endif -%}
+    <img class="mx-auto mb-2" src="{{ fallback }}" alt="{{ item.alt }}" width="{{ w }}" height="{{ h }}" loading="lazy">
+  </picture>
 {%- endif -%}
 </div>
