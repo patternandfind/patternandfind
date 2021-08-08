@@ -17,7 +17,7 @@ Mr. Kettenburg, my highschool U.S. History and Economics teacher, taught me to a
   - Archives and collections plans
   - Other plans
 
-## Why **please** + *flourish*?<a name= "why">
+## Why **please** + *flourish*?<a name= "why"></a>
 
 When we first came up with the name, pattern and find, we then started to think of all sorts of other combinations of words that started with p and f that seemed to meld together quite nicely! These are too much fun to give up, and so the plan is to title each general blog post with one of these p and f combinations.
 
