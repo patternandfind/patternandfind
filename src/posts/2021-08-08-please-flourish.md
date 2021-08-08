@@ -40,3 +40,19 @@ Alright, so that's a lot of metaphors, you might be thinking! What's this whole 
 Well why don't we open this ivy covered door, and walk together down this growing path. I'll tell you all I know about this place so far, which is some. But I also have so much to learn...
 
 ## Picking up the work of decolonization
+
+I was recently reading my colleague's at Xwi7xwa's excellent Research Guide on [Decolonization and Anti-racism](https://guides.library.ubc.ca/antiracism/decolonization_anti-racism), and was greatly impacted by [this video they shared](https://youtu.be/QP9x1NnCWNY). 
+
+Entitled 'Decolonization Is for Everyone', Nikki Sanchez shares at a TedxSFU talk about how important it is for all of us to do decolonial, reflective work.  If you have the time, I strongly recommending pausing your read-through of this blog post, and going to watch the video right now, and then come back. (And while you're there, check out some of the other amazing resources too)! 
+
+If, for whatever reason, you're not in a place to watch the video right now, definitely bookmark it for later. 
+
+What follows draws heavily on her work, and I encourage you to listen to the talk itself, in addition to reading my hot-take on it below. 
+
+Sanchez begins by asking the audience if they can name the territory and the nation on whose lands their Grandmothers were born. I know that my maternal grandmother, Grandma E., was born in Scotland, the Indigenous lands of the Picts and the Gaels. My paternal grandmother, Grandma S.? I have no idea. I think she was born in what's now known as New York City,  which a quick search at Native-land.ca tells me may be the ancestral territories of the Wappinger peoples. 
+
+But there is an erasure there, an amnesia, that I hope the practices we are taking up in this project will help me to unlearn, to relearn, to remember. 
+
+Sanchez goes on to discuss the pain this question elicits, the intergenerational trauma which had to occur for settlers to be complicit in genocide. This trauma, which Sanchez calls historical bystander trauma, is carried forward to the present day. And is perpetuated, as in my own lifetime I have and continue to witness ongoing forms of genocide, of state-sanctioned violence. But just because this history is traumatic, does not mean we can look away. 
+
+>***"In order for us to know where we want to go together, we need to know where we are, and for us to know that we need to know where we've been."***
