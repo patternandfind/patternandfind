@@ -95,7 +95,7 @@ Check out this quotes from Nikki Sanchez's TedxSFU Ted talk (and when you have t
 
 >"Decolonization looks like doing the work to find out who you are, where you came from, and committing to build communities that work together to collectively create a more sustainable and just future. And finally, decolonization looks like celebrating who we are and connecting with the unique knowledge that we each bring to this time and that we need to solve the problems that are laid out in front of us." (Sanchez 2019)
 
-Through pattern + find I am hoping to do decolonial, genealogical healing work. To remember and from that place of memory, come together to ask how I can work in community to collectively create new futures. It is a place, also to celebrate and share the unique gifts my partner and I have, and to apply them to the problems in front of us.
+Through pattern + find I am hoping to do decolonial,  healing work through genealogical research and personal record-keeping. To remember and from that place of memory, ask how I can work in community to collectively create new futures. It is a place, also to celebrate and share the unique gifts my partner and I have, and to apply them to the problems in front of us.
 
 ## Some future plans for pattern + find
 
@@ -109,4 +109,10 @@ Did you read the life changing magic of tidying up? I think you should! The proc
 
 ### Other plans
 
-One of the most exciting things to me about pattern + find is that there are no rules. But there are the guidelines that both K and I know quite a bit about, from having worked and graduated from a 'School of Information' Some other dreams I ahve for this site include playing with the game-ificaiton of access to born-digital materials, audio/visual representations of archives and records, and also a place to learn new skills. Like markdown! Which this post is written in! And static websites! And born-digital access in low-tech environments! Who knows what else will grow here... but I am hoping whatever it is, it'll flourish. 
+One of the most exciting things to me about pattern + find is that there are no rules. But there are the guidelines that both K and I know quite a bit about, from having worked and graduated from a 'School of Information' Some other dreams I have for this site include playing with the game-ificaiton of access to born-digital materials, audio/visual representations of archives and records, and also a place to learn new skills. Like markdown! Which this post is written in! And static websites! And born-digital access in low-tech environments! Who knows what else will grow here... but I am hoping whatever it is, it'll flourish. 
+
+ ***
+
+Works Cited
+
+Sanchez, Nikki. (2019, March 12). Decolonization is for everyone [Video]. YouTube. https://www.youtube.com/watch?v=QP9x1NnCWNY
