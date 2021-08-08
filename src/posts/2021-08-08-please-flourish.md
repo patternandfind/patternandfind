@@ -75,11 +75,11 @@ I believe that like therapy, like body-work, historical work, remembering is hea
 
 <p align="middle"> <strong> screenshots from Nikki Sanchez's excellent ted talk </strong> </p>
 <p align="middle">
-  <img src="/media/dither_it_decolonization_firststeps_nikkisanchez.png" width="400" />
-  <img src="/media/dither_it_decolonization_lookslike_nikkisanchez.png" width="400" />
+  <img src="/media/dither_it_decolonization_firststeps_nikkisanchez.png" width="700" />
+  <img src="/media/dither_it_decolonization_lookslike_nikkisanchez.png" width="700" />
 </p>
 
-*A note on these screenshots: Look at the down votes! They remind me how much this work is needed. And look at the weirdly on-point advertisements. Very indicative of the greyish post-covid world we're about to be living in. 'How to human again' is really the work of decolonization. Because colonialism kills, and often it kills by dehumanizing the other. And from 'Expedia' we have, 'It matters who you travel with' Yes. Yes, it does Expedia. And decolonization is work that needs to be done, so we can travel together. And get rid of corporations like yours along the way! <3 <3 <3
+*A note on these screenshots. 1) They are [dithered](https://www.greendesign.io/dithering-images) using a webapp called [DitherIt](https://ditherit.com/). @) Look at the down votes! They remind me how much this work is needed. 3)And look at the weirdly on-point advertisements. Very indicative of the greyish post-covid world we're about to be living in. From Lyft, 'How to human. Again' is really the work of decolonization. And from 'Expedia' we have, 'It matters who you travel with.' Yes. Yes, it does Expedia. And decolonization is work that needs to be done, so we can travel together. And get rid of corporations like yours along the way!* <3 <3 <3
 
 I'm including these screenshots, because to me they are centric to the work I want to undertake through pattern + find. Work of understanding who I am and where I came from. Work to address the oppressive systems and histories that enable me to occupy the territory I am on. To learn more about this land and the history of the peoples who have lived here since time immemorial. To find out how I benefit from that history, and activate one strategy wherein I can use my privilege from which to dismantle its continuation. And to "Share this knowledge, with your barista, with you babysitter, with your tinder date. I don't care."(Sanchez 2019) So-- we're sharing our processes in pattern + find with y'all. The whole internet!
 
@@ -99,14 +99,14 @@ Through pattern + find I am hoping to do decolonial, genealogical healing work. 
 
 ## Some future plans for pattern + find
 
-###Blog plans
+### Blog plans
 
 I'll be blogging about lots of things! I'll definitely be blogging more about me, what it means to work as a natural resources archivist, my work, and my past and the future I want for all of us. I also want to chat about what it's like to work with my own personal archives and records (see more below), to do genealogical research, to conceptualize record-keeping as an act of healing, on the personal and community level. I'll also blog about some other things that interest me like, how history and archives look in popular culture, book and movie reviews, extended metaphors, dog-mom posts etc. Get ready for lots of p + f titles!!
 
-###Archives and collections plans
+### Archives and collections plans
 
 Did you read the life changing magic of tidying up? I think you should! The process that Marie Kondo advises her clients and readers to undertake to tidy up their homes is one I want to undertake, and I think we could all benefit from undertaking, to tidy up our personal records. Yes, including digital files! So I will be using p  + f to keep the records that really matter. And we want to think about how we can keep digital records and files in low-tech, static environments like this one, but still provide a wonderful, intuitive access experience. I also hope to collect records from my genealogical research, to collect family treasures, and save them here. K and I are also planning on amassing and preserving a treasure-trove of pictures of our one and only spotted pup, Sadie Beatrix Kundera Potter.
 
-###Other plans
+### Other plans
 
 One of the most exciting things to me about pattern + find is that there are no rules. But there are the guidelines that both K and I know quite a bit about, from having worked and graduated from a 'School of Information' Some other dreams I ahve for this site include playing with the game-ificaiton of access to born-digital materials, audio/visual representations of archives and records, and also a place to learn new skills. Like markdown! Which this post is written in! And static websites! And born-digital access in low-tech environments! Who knows what else will grow here... but I am hoping whatever it is, it'll flourish. 
