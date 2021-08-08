@@ -8,8 +8,8 @@ tags: decolonization
 ---
 
 Hello, and welcome to Claire's first post on the Pattern and Find blog!
-Mr. Kettenburg, my highschool AP U.S. History and Economics teacher, taught me to always begin my essays with a map. This not only helped readers, but helped me, the writer, too. To know where we're going, and when.  So, in this blog post I plan to travel to the following places:
-- Why please + flourish?
+Mr. Kettenburg, my highschool U.S. History and Economics teacher, taught me to always begin my essays with a map. This not only helped readers, but helped me, the writer, too. To know where we're going, and when.  So, in this blog post I plan to travel to the following places:
+- [Why please + flourish?](#why)
 - Picking up the work of decolonization
 - Too long, didn't read
 - Some future plans for pattern + find
@@ -17,7 +17,7 @@ Mr. Kettenburg, my highschool AP U.S. History and Economics teacher, taught me t
   - Archives and collections plans
   - Other plans
 
-## Why **please** + *flourish*?
+## Why **please** + *flourish*?<a name= "why">
 
 When we first came up with the name, pattern and find, we then started to think of all sorts of other combinations of words that started with p and f that seemed to meld together quite nicely! These are too much fun to give up, and so the plan is to title each general blog post with one of these p and f combinations.
 
