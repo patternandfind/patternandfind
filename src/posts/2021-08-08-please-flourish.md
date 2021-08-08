@@ -1,10 +1,10 @@
 ---
-layout: posts
+layout: post
 title: please + flourish
 description: on beginnings
 author: Claire/Ember
 date: 2021-08-08T18:30:08.684Z
-tags: decolonization
+tags: ['post', 'decolonization']
 ---
 
 Hello, and welcome to Claire's first post on the Pattern and Find blog!
