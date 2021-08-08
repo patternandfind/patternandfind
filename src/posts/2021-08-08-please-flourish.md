@@ -10,9 +10,9 @@ tags: decolonization
 Hello, and welcome to Claire's first post on the Pattern and Find blog!
 Mr. Kettenburg, my highschool U.S. History and Economics teacher, taught me to always begin my essays with a map. This not only helped readers, but helped me, the writer, too. To know where we're going, and when.  So, in this blog post I plan to travel to the following places:
 - [Why please + flourish?](#why)
-- Picking up the work of decolonization
-- Too long, didn't read
-- Some future plans for pattern + find
+- [Picking up the work of decolonization](#decolonization)
+- [Too long, didn't read](#tldr)
+- [Some future plans for pattern + find](#future)
   - Blog plans
   - Archives and collections plans
   - Other plans
@@ -39,7 +39,7 @@ Alright, so that's a lot of metaphors, you might be thinking! What's this whole 
 
 Well why don't we open this ivy covered door, and walk together down this growing path. I'll tell you all I know about this place so far, which is some. But I also have so much to learn...
 
-## Picking up the work of decolonization
+## Picking up the work of decolonization<a name="decolonization"></a>
 
 I was recently reading my colleague's at Xwi7xwa's excellent Research Guide on [Decolonization and Anti-racism](https://guides.library.ubc.ca/antiracism/decolonization_anti-racism), and was greatly impacted by [this video they shared](https://youtu.be/QP9x1NnCWNY).
 
@@ -89,7 +89,7 @@ Pattern and Find is, put simply, a place. It is a place that K and I are buildin
 
 I am asking myself to please continue doing this work, coming to this place, and to let it flourish. I am asking you to please join us, if you so wish, to flourish in kind.
 
-## Too long, didn't read
+## Too long, didn't read<a name="tldr"></a>
 
 Check out this quotes from Nikki Sanchez's TedxSFU Ted talk (and when you have time watch the [video](https://youtu.be/QP9x1NnCWNY).)
 
@@ -97,7 +97,7 @@ Check out this quotes from Nikki Sanchez's TedxSFU Ted talk (and when you have t
 
 Through pattern + find I am hoping to do decolonial,  healing work through genealogical research and personal record-keeping. To remember and from that place of memory, ask how I can work in community to collectively create new futures. It is a place, also to celebrate and share the unique gifts my partner and I have, and to apply them to the problems in front of us.
 
-## Some future plans for pattern + find
+## Some future plans for pattern + find<a name="future"></a>
 
 ### Blog plans
 
