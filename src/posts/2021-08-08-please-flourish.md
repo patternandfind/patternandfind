@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: posts
 title: please + flourish
 description: on beginnings
 author: Claire/Ember
 date: 2021-08-08T18:30:08.684Z
-tags: ['post', 'decolonization']
+tags: decolonization
 ---
 
 Hello, and welcome to Claire's first post on the Pattern and Find blog!
@@ -55,4 +55,26 @@ But there is an erasure there, an amnesia, that I hope the practices we are taki
 
 Sanchez goes on to discuss the pain this question elicits, the intergenerational trauma which had to occur for settlers to be complicit in genocide. This trauma, which Sanchez calls historical bystander trauma, is carried forward to the present day. And is perpetuated, as in my own lifetime I have and continue to witness ongoing forms of genocide, of state-sanctioned violence. But just because this history is traumatic, does not mean we can look away. 
 
->***"In order for us to know where we want to go together, we need to know where we are, and for us to know that we need to know where we've been."***
+>***"In order for us to know where we want to go together, we need to know where we are, and for us to know that, we need to know where we've been."*** (Sanchez, 2019)
+
+This sentence, in a nutshell, is what turned me onto libraries and archives. I wanted to work with the past to help inform the future. But, over the past few years, and since I've gained more experience as a practicing archivist, and also learned from amazing teachers such as Amy Perreault, Sarah Dupont, and Jennifer Douglas, I have begun to realize that I also must work *my* past to help inform *my* future. And this is what is at the heart of pattern + find, for me. A place to uncover, to recover my past, with an [eye on the prize](https://www.youtube.com/watch?v=f_8tTM94hAk) of a new kind of future. 
+
+
+Sanchez goes onto to unpack the history of colonization in Canada, and in particular the history of Indian Residential Schools. Please do go watch this video, as it's an incredibly succinct and clear summary of colonization in the Canadian context. 
+Sanchez also shares what colonization looks like today in Canada: the occupation of Indigenous territories, the over 4,000 missing and murdered Indigenous women, First Nations who live without clean water, and more, including resource extraction and poisoning of Indigenous lands and waters. 
+
+>***"I work with a lot of settler people who want to do something about this, but they don't know where to begin. And they feel paralyzed with guilt and shame about this truly ugly history that we've all found ourselves in. And so, if I could just leave you with one message today it would be this: This history is not your fault. But it absolutely is your responsibility."*** (Sanchez, 2019)
+
+I write this today as a daughter, a granddaughter, a great-granddaughter, a great-great-granddaughter of settlers. As a settler, an uninvited person living on unceded, stolen, and occupied lands of the Musqueam, Squamish, and Tsleil-Waututh peoples. As a whitey. As a cis-gendered woman. As someone who has professional training in libraries and archives, both themselves systems that have played a central role in maintaining oppresive, imperial, colonial control. I am writing this as a native english speaker, someone who grew up trained in the syntax, grammar, and ontologies of the language of colonizers. As a whitey, settler, cis-gendered english speaking woman working as an archivist, I am writing this from a place of privilige. This privilige, and the knowledge of the historical and ongoing systems that work to maintain this privilige at the cost of LIFE, has, often, left me paralyzed with shame and guilt. At times, it has left me contemplating suicide as the best solution I could personally take to 'solve', absolve, be free from these legacies. 
+
+But Sanchez's video reminds me what I know inherently to be true. That I do have gifts to give, that I do have work to do, work in community, in collaboration, alongside others. That I have gifts to give, a light to shine, a path to walk. My gifts and passions include story-telling, design, archives and libraries, analogue culture, digital tools, low-tech and highly pleasing spaces of access to stories, inheritance, games, adventures, and learnings. 
+
+"It takes courage to heal" I remember the super-talented somatic therapist, Fayza Bundalli, said to me, and I felt that truth in my body, being scared to heal. And I repeated it to the incredible body-worker, Tracey Dixon, and she replied, "Yes. Because when you heal, everything changes". I was seeking healing with the help of both of these people, and their wise words stayed with me. 
+
+I believe that like therapy, like body-work, historical work, remembering is healing. And it does take courage, a courage which Sanchez (2019) astutely points out, "We need to have the courage to look at our past, we need to have the courage to look at where we are now and we need to work together to figure out how we can collectively heal moving forward."
+
+<p align="middle"> <strong> screenshots from Nikki Sanchez's excellent ted talk </strong> </p>
+<p align="middle"> 
+  <img src="/media/dither_it_decolonization_firststeps_nikkisanchez.png" width="400" />
+  <img src="/media/dither_it_decolonization_lookslike_nikkisanchez.png" width="400" /> 
+</p>
