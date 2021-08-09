@@ -24,19 +24,19 @@ When we first came up with the name, pattern and find, we started to think of al
 
 Today, as I was journaling about pattern and find-- the kind of space I want it to be, the kinds of things I want to grow here-- the words 'please' and 'flourish' came to me.
 
-**Please** because I am learning to ask myself nicely to spend time on the things that nurture me, give me sunlight and song. Many things within me are now seeds, just like pattern + find, but I hope someday they will be a garden, a grove, an orchard, a forest. 
+**Please** because I am learning to ask myself nicely to spend time on the things that nurture me, give me sunlight and song. Many things within me are now seeds, just like pattern + find, but I hope someday they will be a garden, a grove, an orchard, a forest.
 
 Please, I am learning to say to myself, after reading 'The Artist's Way', and realizing how true it is that the part of me who makes things, who creates and imagines, needs to be treated with immense kindness and with sweet words. Please, Claire, I say to myself, spend time in this secret soil, see what's living, and help it thrive!
 
 <p align="middle"> <strong> welcome to the secret garden </strong> </p>
-<p align="middle">
-  <img src="/media/secret_garden.gif" width="400" />
-  <img src="/media/the-secret-garden-2.gif" width="400" />
+<p class="flex justify-center">
+  <img class="px-4" src="/media/secret_garden.gif" width="400" />
+  <img class="px-4" src="/media/the-secret-garden-2.gif" width="400" />
 </p>
 
 **Please** also because I find it pleasing to work on this, in this space. It please me, and I want it to please others as well. To be aesthetically pleasing in its design, and pleasing in its content. To bring joy, and healing, and much needed shade to hot places, water to dry ones, etc.
 
-And *flourish*? Flourish-- because I am already overwhelmed, in this very paragraph, by how much there is that I want to do here, to grow, to plant. To tend to, and be responsible for. 
+And *flourish*? Flourish-- because I am already overwhelmed, in this very paragraph, by how much there is that I want to do here, to grow, to plant. To tend to, and be responsible for.
 
 Letting it be alright, even, wonderful, that there's place for all that to flourish. Not just grow, but really *grow*-- to jurassic park, mammoth, land-before-time sizes, to invite diverse forms and content, to let it be over-the-top, and teeming with life, and everything-just-so, and also, to be functional and fun.
 
@@ -113,7 +113,7 @@ Did you read *The Life Changing Magic of Tidying Up* by Marie Kondo? [I think yo
 
 ### Other plans
 
-One of the most exciting things to me about pattern + find is that there are no rules. But there are the guidelines that both K and I know quite a bit about, from having worked and graduated from a 'School of Information'. Some other dreams I have for this site include playing with the game-ificaiton of access to born-digital materials, audio/visual representations of archives and records, and also a place to learn new skills. Like markdown! Which this post is written in! And static websites! And born-digital access in low-tech environments! And git-hub! Who knows what else will grow here... but I am hoping whatever it is, it'll flourish. 
+One of the most exciting things to me about pattern + find is that there are no rules. But there are the guidelines that both K and I know quite a bit about, from having worked and graduated from a 'School of Information'. Some other dreams I have for this site include playing with the game-ificaiton of access to born-digital materials, audio/visual representations of archives and records, and also a place to learn new skills. Like markdown! Which this post is written in! And static websites! And born-digital access in low-tech environments! And git-hub! Who knows what else will grow here... but I am hoping whatever it is, it'll flourish.
 
  ***
 

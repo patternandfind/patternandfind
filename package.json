@@ -2,6 +2,7 @@
   "name": "patternandfind",
   "version": "1.0.0",
   "scripts": {
+    "appleDev": "rm -r _site && mkdir _site && postcss src/style.css > _site/style.css && eleventy --input=src --serve --quiet",
     "dev": "rd /s/q \"_site\" && md _site && postcss src/style.css > _site/style.css && eleventy --input=src --serve --quiet",
     "build": "cross-env NODE_ENV=production eleventy --input=src && cross-env NODE_ENV=production postcss src/style.css > _site/style.css"
   },
