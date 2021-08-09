@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: posts
 title: please + flourish
 description: on beginnings
 author: Claire/Ember
 date: 2021-08-08T18:30:08.684Z
-tags: ['post', 'decolonization']
+tags: decolonization
 ---
 
 Hello, and welcome to Claire's/Ember's first post on the Pattern and Find blog! (For more on Ember check out our [first post](https://patternandfind.netlify.app/posts/first-post/) and also read The Tales of Earthsea by Ursula K. LeGuin!)
@@ -58,7 +58,7 @@ Sanchez begins by asking the audience if they can name the territory and the nat
 
 But there is an erasure there, an amnesia, that I hope the practices we are taking up in this project will help me to unlearn, to remember.
 
-Sanchez goes on to discuss the pain this question elicits, the inter-generational trauma which had to occur for settlers to be complicit in genocide. This trauma, which Sanchez calls historical bystander trauma, is carried forward to the present day. And is perpetuated, as in my own lifetime I have and continue to witness ongoing forms of genocide, of state-sanctioned violence. But just because this history is traumatic, does not mean we can look away.
+Sanchez goes on to discuss the pain this question elicits, the inter-generational trauma which had to occur for settlers to be complicit in genocide. This trauma, which Sanchez calls historical bystander trauma, is carried forward to the present day. And is perpetuated, as in my own lifetime I have and continue to witness ongoing forms of genocide, of state-sanctioned violence. But just because this history is traumatic, does not mean we can [look away](https://www.youtube.com/watch?v=0GeCPanRHU0).
 
 >***"In order for us to know where we want to go together, we need to know where we are, and for us to know that, we need to know where we've been."*** (Sanchez, 2019)
 
