@@ -1,5 +1,5 @@
 ---
-title: First Post
+title: post + first
 description: Our very 1st post
 author: Kellen, Claire, & Sadie
 date: 2021-07-06

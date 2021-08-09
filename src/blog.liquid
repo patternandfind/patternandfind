@@ -3,7 +3,7 @@ layout: default.liquid
 ---
 <h1 class="lg:text-5xl text-2xl text-center pb-5 lg:pb-10 font-bold lg:mt-16 md:mt-14 sm:mt-10">Posts</h1>
 {%- for post in collections.post reversed -%}
-<article class="mx-auto w-80">
+<article class="mx-auto w-80 pb-10">
     <h2 class="lg:text-3xl text-xl font-bold hover:text-black">
         <a href="{{ post.url | url }}">
             {%- if post.data.title -%}

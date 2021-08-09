@@ -46,7 +46,7 @@ Well why don't we open this ivy covered door, and walk together down this growin
 
 ## Picking up the work of decolonization<a name="decolonization"></a>
 
-I was recently reading Xwi7xwa Library's excellent Research Guide on [Decolonization and Anti-racism](https://guides.library.ubc.ca/antiracism/decolonization_anti-racism), and was greatly impacted by [this video they shared](https://youtu.be/QP9x1NnCWNY).
+I was recently reading <u>X</u>wi7<u>x</u>wa Library's excellent Research Guide on [Decolonization and Anti-racism](https://guides.library.ubc.ca/antiracism/decolonization_anti-racism), and was greatly impacted by [this video they shared](https://youtu.be/QP9x1NnCWNY).
 
 Entitled 'Decolonization Is for Everyone', Nikki Sanchez shares at a TedxSFU talk about how important it is for all of us to do decolonial, reflective work.  If you have the time, I strongly recommending pausing your read-through of this blog post, and going to watch the video right now! (And while you're there, check out some of the other amazing resources too)!
 
