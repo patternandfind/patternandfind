@@ -89,7 +89,7 @@ I'm including these screenshots, because to me they are centric to the work I wa
 
 >***"What can I do to decolonize? Well it's not going to be a one answer, it's not going to be a one-day fix. However I can give you a few first steps, because if you do your work than we can come back together and collectively do the real work that needs to be done."*** (Sanchez 2019)
 
-Pattern and Find is, put simply, a place. It is a place that K and I are building together, but in a sense, it is a place that has already existed. A place to do this work together.  Much like the sacred grove in Earthsea. A place we go to for healings, answers, adventures, love, magic. A slightly dangerous place one could get lost in if one isn't careful!
+pattern + find is, put simply, a place. A digital place that K and I are building together, but in a sense, it is a place that has already existed. A place to do this work together.  Much like the sacred grove in Earthsea. A place we go to for healings, answers, adventures, love, magic. A slightly dangerous place one could get lost in if one isn't careful!
 
 I am asking myself to please continue doing this work, coming to this place, and to let it flourish. I am asking you to please join us, if you so wish, to flourish in kind.
 
