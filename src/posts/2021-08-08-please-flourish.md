@@ -29,9 +29,9 @@ Today, as I was journaling about pattern and find-- the kind of space I want it 
 Please, I am learning to say to myself, after reading 'The Artist's Way', and realizing how true it is that the part of me who makes things, who creates and imagines, needs to be treated with immense kindness and with sweet words. Please, Claire, I say to myself, spend time in this secret soil, see what's living, and help it thrive!
 
 <p align="middle"> <strong> welcome to the secret garden </strong> </p>
-<p class="flex justify-center">
-  <img class="px-4" src="/media/secret_garden.gif" width="400" />
-  <img class="px-4" src="/media/the-secret-garden-2.gif" width="400" />
+<p class="lg:flex lg:justify-center">
+  <img class="px-4 mx-auto" src="/media/secret_garden.gif" width="600" />
+  <img class="px-4 mx-auto" src="/media/the-secret-garden-2.gif" width="600" />
 </p>
 
 **Please** also because I find it pleasing to work on this, in this space. It please me, and I want it to please others as well. To be aesthetically pleasing in its design, and pleasing in its content. To bring joy, and healing, and much needed shade to hot places, water to dry ones, etc.
