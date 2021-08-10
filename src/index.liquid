@@ -3,9 +3,9 @@
     {% include head %}
     <body class="bg-yellow-50 text-gray-600 flex h-screen">
         <main class="m-auto">
-            <h1 class="text-5xl lg:text-8xl font-bold text-center py-5">{{ settings.title }}</h1>
+            <h1 class="text-6xl lg:text-9xl md:text-8xl sm:text-7xl font-bold text-center py-5">{{ settings.title }}</h1>
             {% if settings.navigation %}
-            <nav class="text-center lg:text-4xl text-2xl font-bold py-10">
+            <nav class="text-center lg:text-6xl md:text-5xl sm:text-4xl text-3xl font-bold py-10">
                 <ul>
                     {% for item in settings.navigation %}
                     <li class="py-5 flex-1 hover:text-gray-900"><a href="{{ item.url }}">{{ item.name }}</a></li>

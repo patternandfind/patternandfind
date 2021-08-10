@@ -1,10 +1,10 @@
 <header>    
-    <nav class="w-full lg:py-5 my-3 lg:px-10 px-3 pt-1 text-center lg:text-left">
-        <span class="lg:text-4xl text-2xl font-bold lg:float-left md:float-left px-5 hover:text-gray-900"><a href="/">{{ settings.title }}</a></span>
+    <nav class="w-full lg:py-5 mt-3 lg:mb-3 mb-1 lg:px-10 px-3 pt-1 text-center lg:text-left">
+        <span class="text-4xl font-bold lg:float-left md:float-left px-5 hover:text-gray-900"><a href="/">{{ settings.title }}</a></span>
         {% if settings.navigation %}
         <ul class="py-2 inline-block lg:float-right md:float-right">
             {% for item in settings.navigation %}
-            <li class="inline-block px-5 lg:text-2xl text-m hover:text-gray-900 hover:underline"><a href="{{ item.url }}">{{ item.name }}</a></li>
+            <li class="inline-block px-4 lg:text-2xl text-lg hover:text-gray-900 hover:underline"><a href="{{ item.url }}">{{ item.name }}</a></li>
             {% endfor %}
         </ul>
         {% endif %}
