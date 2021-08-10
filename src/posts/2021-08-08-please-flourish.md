@@ -7,7 +7,7 @@ date: 2021-08-08T18:30:08.684Z
 tags: ['post', 'decolonization']
 ---
 
-Hello, and welcome to Claire's/Ember's first post on the Pattern and Find blog! (For more on Ember check out our [first post](https://patternandfind.netlify.app/posts/first-post/) and also read [Tales from Earthsea](https://www.worldcat.org/title/tales-from-earthsea-short-stories/oclc/52829551&referer=brief_results) by Ursula K. LeGuin!)
+Hello, and welcome to Claire's/Ember's first post on the Pattern and Find blog! (For more on Ember check out our [first post](https://patternandfind.netlify.app/posts/2021-07-05-post-first/) and also read [Tales from Earthsea](https://www.worldcat.org/title/tales-from-earthsea-short-stories/oclc/52829551&referer=brief_results) by Ursula K. LeGuin!)
 
 Mr. Kettenburg, my highschool U.S. History and Economics teacher, taught me to begin my essays with a map. This not only helped readers, but helped me, the writer, too. To know where we're going, and when. The nifty thing about digital documents, is you can also use a map to jump around to the places you're interested in going. Please feel free to come along with me on the narrative journey, or just navigate to the sections that interest you! In this blog post we will travel to the following places:
 - [Why please + flourish?](#why)
