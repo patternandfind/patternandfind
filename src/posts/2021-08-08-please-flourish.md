@@ -26,8 +26,18 @@ Please, I am learning to say to myself, after reading [The Artist's Way](https:/
 
 <p align="middle"> <strong> welcome to the secret garden </strong> </p>
 <p class="lg:flex lg:justify-center">
-  <img class="px-4 mx-auto" src="/media/secret_garden.gif" width="600" />
-  <img class="px-4 mx-auto" src="/media/the-secret-garden-2.gif" width="600" />
+  <picture>
+    <source srcset="/media/secretGarden.avif" type="image/avif">
+    <source srcset="/media/secretGarden.webp" type="image/webp">
+    <source srcset="/media/secretGarden.gif" type="image/gif">
+    <img class="px-4 mx-auto" src="/media/secretGarden.gif" alt="flowers in field quickly and magically blossom" width="448" loading="lazy">
+  </picture>
+  <picture >
+    <source srcset="/media/secretGarden2.avif" type="image/avif">
+    <source srcset="/media/secretGarden2.webp" type="image/webp">
+    <source srcset="/media/secretGarden2.gif" type="image/gif">
+    <img class="px-4 mx-auto" src="/media/secretGarden2.gif" alt="a figure passes through a doorway covered in vines and beckons you to follow them" width="448" loading="lazy">
+  </picture>
 </p>
 
 **Please** also because I find it pleasing to work on this, in this space. It pleases me, and I want it to please others as well. To be aesthetically pleasing in its design, and pleasing in its content. To bring joy, and healing, and much needed shade to hot places, water to dry ones, etc.
@@ -77,8 +87,16 @@ I believe that like therapy, like body-work, historical work, remembering is a f
 
 <p align="middle"> <strong> screenshots from Nikki Sanchez's excellent ted talk </strong> </p>
 <p align="middle">
-  <img src="/media/dither_it_decolonization_firststeps_nikkisanchez.png" width="700" />
-  <img src="/media/dither_it_decolonization_lookslike_nikkisanchez.png" width="700" />
+  <picture>
+    <source srcset="/media/dither_it_decolonization_firststeps_nikkisanchez.avif" type="image/avif">
+    <source srcset="/media/dither_it_decolonization_firststeps_nikkisanchez.png" type="image/png">
+    <img src="/media/dither_it_decolonization_firststeps_nikkisanchez.png" alt="" width="700" loading="lazy">
+  </picture>
+  <picture>
+    <source srcset="/media/dither_it_decolonization_lookslike_nikkisanchez.avif" type="image/avif">
+    <source srcset="/media/dither_it_decolonization_lookslike_nikkisanchez.png" type="image/png">
+    <img src="/media/dither_it_decolonization_lookslike_nikkisanchez.png" alt="" width="700" loading="lazy">
+  </picture>
 </p>
 
 *A note on these screenshots. 1) They are [dithered](https://www.greendesign.io/dithering-images) using a web-app called [DitherIt](https://ditherit.com/). 2) Look at the down votes! They remind me how much this work is needed. 3)And look at the weirdly on-point advertisements. Very indicative of the greyish post-covid world we're about to be living in. From Lyft, 'How to human. Again' 'How to human, again', is really the work of decolonization. And from 'Expedia' we have, 'It matters who you travel with.' Yes. Yes, it does Expedia. And decolonization is work that needs to be done, so we can travel together. And get rid of corporations like yours along the way!* <3 <3 <3
