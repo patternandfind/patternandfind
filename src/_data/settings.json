@@ -1,6 +1,7 @@
 {
-  "title": "pattern+find",
+  "site_name": "pattern+find",
   "description": "Claire and Kellen's explorations in the digital world. With a bit of Sadie.",
+  "domain": "https://patternandfind.netlify.app",
   "navigation": [
     {"name": "blog", "url": "/blog"},
     {"name": "archives+collections", "url": "/archives&collections"},

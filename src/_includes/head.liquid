@@ -1,8 +1,21 @@
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ settings.title }} | {{ settings.description }}</title>
+    <meta charset="utf-8">
+    <meta content="width=device-width,initial-scale=1" name="viewport">
+    <title>{{ settings.site_name }} | {{ settings.description }}</title>
+    <link href="{{ settings.domain }}{{ page.url }}" rel="canonical">
+    <meta content="{{ settings.site_name }}" property="og:site_name">
+    <meta content="{{ title | escape }}" property="og:title">
+    <meta content="website" property="og:type">
+    <meta content="{{ settings.domain }}{{ page.url }}" property="og:url">
+    <meta content="summary_large_image" name="twitter:card">
+    <meta content="" property="og:image">
+    <meta content="" name="twitter:image">
+    <meta content="{{ settings.description | escape }}" name="description">
+    <meta content="{{ settings.description | escape }}" name="twitter:description">
+    <meta content="{{ settings.description | escape }}" property="og:description">
+    <link href="" rel="icon" sizes="32x32" type="image/png">
+    <link href="" rel="icon" sizes="192x192" type="image/png">
+    <link href="" rel="apple-touch-icon">
     <link rel="stylesheet" href="/style.css">
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
