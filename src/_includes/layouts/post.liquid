@@ -1,12 +1,11 @@
 ---
-layout: default.liquid
+layout: layouts/default
 ---
 <div class="container lg:max-w-4xl max-w-full mx-auto px-8">
     <h1 class="lg:text-5xl font-bold text-4xl pt-10">{{ title }}</h1>
     <p class="lg:text-lg text-m pt-4">
         <time>{{ date | date: "%d %b %Y" }}</time>
-        by
-        <a>{{ author }}</a>
+        by {{ author }}
     </p>
 </div>
 <article class="prose text-justify lg:max-w-4xl max-w-full lg:mx-auto mx-8 mt-10 pb-5">

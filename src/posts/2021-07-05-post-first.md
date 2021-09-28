@@ -4,7 +4,7 @@ description: Our very 1st post
 author: Kellen, Claire, & Sadie
 date: 2021-07-06
 tags: post
-layout: post
+layout: layouts/post
 ---
 
 Hello!
@@ -22,4 +22,4 @@ We'll be looking at how to preserve our personal records. We'll be testing out c
 the kind of feminist decolonial socialist present we hope to see on earth. We'll be documenting our travels and journeys like Frodo and Sam. 
 And of course there will be plenty of Sadie pictures.
 
-{%- include media, id: 'post1' -%}
+{%- include partials/media, id: 'post1' -%}

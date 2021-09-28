@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: layouts/post
 title: please + flourish
 description: on beginnings
 author: Claire/Ember
