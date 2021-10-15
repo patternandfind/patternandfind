@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "route": "/posts/*",
+      "allowedRoles": ["authenticated"]
+    }
+  ]
+}
