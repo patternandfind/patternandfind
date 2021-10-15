@@ -2,7 +2,7 @@
   "routes": [
     {
       "route": "/posts/*",
-      "allowedRoles": ["authenticated"]
+      "allowedRoles": ["reader"]
     },
     {
       "route": "/login",
