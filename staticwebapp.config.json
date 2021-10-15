@@ -12,7 +12,7 @@
       "route": "/logout",
       "rewrite": "/.auth/logout"
     }
-  ]
+  ],
   "responseOverrides": {
     "401": "/login",
     "statusCode": 302
