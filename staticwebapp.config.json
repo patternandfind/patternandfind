@@ -3,6 +3,18 @@
     {
       "route": "/posts/*",
       "allowedRoles": ["authenticated"]
+    },
+    {
+      "route": "/login",
+      "rewrite": "/.auth/login/github"
+    },
+    {
+      "route": "/logout",
+      "rewrite": "/.auth/logout"
     }
   ]
+  "responseOverrides": {
+    "401": "/login",
+    "statusCode": 302
+}  
 }
