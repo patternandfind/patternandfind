@@ -14,7 +14,9 @@
     }
   ],
   "responseOverrides": {
-    "401": "/login",
-    "statusCode": 302
-}  
+    "401": {
+      "redirect": "/login",
+      "statusCode": 302
+    }
+  }  
 }
