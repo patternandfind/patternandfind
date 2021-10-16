@@ -3,7 +3,7 @@ backend:
   repo: patternandfind/patternandfind
   branch: main
   base_url: https://delightful-sea-0d79db71e.azurestaticapps.net
-  auth_endpoint: .auth/login/github
+  auth_endpoint: .auth
 
 publish_mode: editorial_workflow
 
