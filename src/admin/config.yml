@@ -1,6 +1,9 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: patternandfind/patternandfind
   branch: main
+  base_url: https://delightful-sea-0d79db71e.azurestaticapps.net
+  auth_endpoint: .auth/login/github
 
 publish_mode: editorial_workflow
 
